@@ -1,7 +1,7 @@
 ## ¡Hola! 👋
 
 Soy **desarrollador Frontend** y me gusta ayudar a las personas a usar la tecnología.
-Actualmente estoy mejorando mis habilidades y sigo aprendiendo cosas nuevas.
+Actualmente sigo mejorando y trabajando en nuevos proyectos para reforzar mis habilidades así como aprendiendo cosas nuevas.
 
 A continuación algunas de las principales tecnologías que domino: 😀
 
@@ -15,6 +15,7 @@ A continuación algunas de las principales tecnologías que domino: 😀
 
 Visita mi [website](https://abner-estevez.netlify.app/) para que me conozca un poco más, además te puedes poner en contacto conmigo a través de:
 
-* Website: (https://abner-estevez.netlify.app/)
+* Website: (https://abner-estevez.netlify.app/) 👌
 * Gmail: (nertrabajo2@gmail.com)
 * LinkedIn: ...
+
