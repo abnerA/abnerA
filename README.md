@@ -15,7 +15,7 @@ A continuación algunas de las principales tecnologías que domino: 😀
 
 Visita mi [website](https://abner-estevez.netlify.app/) para que me conozca un poco más, además te puedes poner en contacto conmigo a través de:
 
-* Website: (https://abner-estevez.netlify.app/) 👌
-* Gmail: (nertrabajo2@gmail.com)
+* Website: https://abner-estevez.netlify.app/ 👌
+* Gmail: nertrabajo2@gmail.com
 * LinkedIn: ...
 
