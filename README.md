@@ -1,16 +1,20 @@
-## Hola! 👋 gracias por visitar mi perfil de github
+## ¡Hola! 👋
 
-<!--
-**abnerA/abnerA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **desarrollador Frontend** y me gusta ayudar a las personas a usar la tecnología.
+Actualmente estoy mejorando mis habilidades y sigo aprendiendo cosas nuevas.
 
-Here are some ideas to get you started:
+A continuación algunas de las principales tecnologías que domino: 😀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. HTML
+2. CSS
+3. JavaScript
+4. React
+5. Git
+6. Sass 
+7. Webpack
+
+Visita mi [website](https://abner-estevez.netlify.app/) para que me conozca un poco más, además te puedes poner en contacto conmigo a través de:
+
+• Website: (https://abner-estevez.netlify.app/)
+• Gmail: (nertrabajo2@gmail.com)
+• LinkedIn: ...
