@@ -17,5 +17,5 @@ Visita mi [website](https://abner-estevez.netlify.app/) para que me conozca un p
 
 * Website: https://abner-estevez.netlify.app/ 👌
 * Gmail: nertrabajo2@gmail.com
-* LinkedIn: ...
+* LinkedIn: https://www.linkedin.com/in/abner-estevez/
 
